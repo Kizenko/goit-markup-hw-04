@@ -350,7 +350,8 @@ ol {
   border-color: #404bbf;
   color: #404bbf;
 }
-.customers-link:hover .customers-icon {
+.customers-link:hover .customers-icon,
+.customers-link:focus .customers-icon {
   fill: #404bbf;
 }
 
